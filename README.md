@@ -14,7 +14,7 @@ Include [`jquery.autoimage.js`](jquery.image.js) after `jQuery`.
 ### Options
 | Option        | Default     | Type         | Description |
 | ------------- |:-----------:| ------------:| -----------:|
-| target      | `_blank`     | `string`    | The target attribute specifies where to open the linked image. |
+| target      | `_blank`     | `string`    | The target attribute specifies where to open the linked images. |
 | scheme      | `//`     | `string`    | The protocol scheme to use for the embedded images. |
 | imgClass          | `img-responsive`      | `string`    | The class to use for the embedded images. |
 
