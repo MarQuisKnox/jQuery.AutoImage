@@ -1,5 +1,5 @@
 # jQuery.AutoImage
-Automatically convert image URLs to embedded images
+Automatically convert image URLs to embedded images.<br><br>
 jQuery AutoImage is a jQuery plugin for automatically converting text containing image URLs into embedded images. It automatically transforms plain text image URLs into embedded images.
 
 ## History
