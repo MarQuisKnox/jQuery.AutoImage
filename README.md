@@ -8,7 +8,7 @@ This code is based on the fork (<a href="https://github.com/MarQuisKnox/jQuery.A
 
 ## Usage
 
-The only dependency is [jQuery](http://jquery.com).
+The only dependency is [jQuery](http://jquery.com).<br>
 Include [`jquery.autoimage.js`](jquery.image.js) after `jQuery`.
 
 ### Options
